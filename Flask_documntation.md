@@ -1,10 +1,12 @@
+![image](https://user-images.githubusercontent.com/47035051/197783981-60fa9125-f05d-4249-a1f5-8fd3212800c2.png)
+
 # What is Flask?
 <p>Flask is a web application framework written in Python. It is developed by Armin Ronacher, who leads an international group 
 of Python enthusiasts named Pocco.
 Flask is based on the Werkzeug WSGI toolkit and Jinja2 template engine.</p>
  
-Jinja2
-Jinja2 is a popular templating engine for Python. A web templating system combines a template with a certain data source to render dynamic web pages.
+# Jinja2
+<p>Jinja2 is a popular templating engine for Python. A web templating system combines a template with a certain data source to render dynamic web pages.</p>
 
 Flask is often referred to as a micro framework. It aims to keep the core of an application simple yet extensible. 
 Flask does not have built-in abstraction layer for database handling, nor does it have form a validation support. 
