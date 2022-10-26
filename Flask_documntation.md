@@ -120,10 +120,3 @@ HTML script as result.html in the templates folder.
       </table>
    </body>
 </html>
-
-
-
-
-
-
-
