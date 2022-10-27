@@ -120,3 +120,7 @@ HTML script as result.html in the templates folder.
       </table>
    </body>
 </html>
+
+can refer :
+1. code with harry flask
+2. freecodecamp flask
